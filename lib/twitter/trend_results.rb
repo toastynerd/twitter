@@ -1,6 +1,6 @@
+require 'memoizable'
 require 'twitter/creatable'
 require 'twitter/enumerable'
-require 'memoizable'
 require 'twitter/null_object'
 
 module Twitter
